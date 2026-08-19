@@ -66,6 +66,7 @@ REST API
 Backend Services
 
 ---
+🛠️ Technologies
 
 | Technology | Purpose               |
 | ---------- | --------------------- |
@@ -75,7 +76,6 @@ Backend Services
 | REST API   | Backend Communication |
 
 ---
-
 bash
 [git clone https:](//github.com/Lanahamed1/ATS-Resume-Optimization-.git)
 
@@ -93,10 +93,13 @@ Match candidates with relevant job opportunities.
 Provide personalized career development recommendations.
 
 
+
 ---
 📌 Project Status
 
 A Flutter mobile application focused on resume optimization and intelligent career support.
+
+
 ---
 
 👨‍💻 Author
