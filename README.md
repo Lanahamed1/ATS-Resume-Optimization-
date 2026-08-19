@@ -76,8 +76,10 @@ Backend Services
 | REST API   | Backend Communication |
 
 ---
-bash
-[git clone https:](//github.com/Lanahamed1/ATS-Resume-Optimization-.git)
+Installation
+
+[git clone https:]
+//github.com/Lanahamed1/ATS-Resume-Optimization-.git
 
 ---
 
