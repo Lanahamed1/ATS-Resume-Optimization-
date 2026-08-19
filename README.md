@@ -21,7 +21,7 @@ The application communicates with REST APIs and uses BLoC for predictable and sc
 
 ## ✨ Features
 
-### 📄 Resume Analysis
+## 📄 Resume Analysis
 
 - Upload and analyze resumes
 - ATS compatibility analysis
@@ -29,7 +29,7 @@ The application communicates with REST APIs and uses BLoC for predictable and sc
 - Identify missing or relevant skills
 - Resume improvement insights
 
-### 💼 Job Matching
+## 💼 Job Matching
 
 - Job description analysis
 - Resume-to-job matching
@@ -37,7 +37,7 @@ The application communicates with REST APIs and uses BLoC for predictable and sc
 - Relevant skill identification
 - Job recommendations
 
-### 🎯 Career Recommendations
+## 🎯 Career Recommendations
 
 - Career recommendations
 - Skill gap identification
@@ -65,7 +65,7 @@ REST API
  ▼
 Backend Services
 
-
+---
 
 | Technology | Purpose               |
 | ---------- | --------------------- |
@@ -74,13 +74,15 @@ Backend Services
 | BLoC       | State Management      |
 | REST API   | Backend Communication |
 
+---
+
+bash
+[git clone https:](//github.com/Lanahamed1/ATS-Resume-Optimization-.git)
+
+---
 
 
-`bash
-git clone https://github.com/Lanahamed1/ATS-Resume-Optimization-.git
-
-
-Project Goals
+🎯Project Goals
 
 The main goals of the application are:
 
@@ -91,11 +93,11 @@ Match candidates with relevant job opportunities.
 Provide personalized career development recommendations.
 
 
-
+---
 📌 Project Status
 
 A Flutter mobile application focused on resume optimization and intelligent career support.
-
+---
 
 👨‍💻 Author
 
