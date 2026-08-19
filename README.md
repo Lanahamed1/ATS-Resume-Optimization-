@@ -1,7 +1,6 @@
 
  ATS Resume Optimization Platform
 
-```markdown
 # ATS Resume Optimization Platform
 
 A Flutter-based mobile application designed to help job seekers optimize their resumes, analyze job requirements, identify skill gaps, and discover relevant career opportunities.
@@ -51,7 +50,7 @@ The application communicates with REST APIs and uses BLoC for predictable and sc
 
 The application follows a structured Flutter architecture using BLoC for state management.
 
-```text
+
 UI
  │
  ▼
@@ -77,7 +76,7 @@ Backend Services
 
 
 
-```bash
+`bash
 git clone https://github.com/Lanahamed1/ATS-Resume-Optimization-.git
 
 
