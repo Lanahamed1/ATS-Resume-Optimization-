@@ -1,7 +1,4 @@
 
-
----
-
  ATS Resume Optimization Platform
 
 ```markdown
