@@ -78,8 +78,7 @@ Backend Services
 ---
 Installation
 
-git clone https:
-github.com/Lanahamed1/ATS-Resume-Optimization-.git
+git clone https://github.com/Lanahamed1/ATS-Resume-Optimization-.git
 
 ---
 
